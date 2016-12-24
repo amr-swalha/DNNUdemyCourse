@@ -1,0 +1,4 @@
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\bin\FileUploadMain.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\bin\FileUploadMain.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\DNN\FileUploadMain\obj\Release\FileUploadMain.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\DNN\FileUploadMain\obj\Release\FileUploadMain.pdb
